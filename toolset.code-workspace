@@ -1,0 +1,25 @@
+{
+        "folders": [
+                {
+                        "path": "."
+                }
+        ],
+        "settings": {
+                "files.associations": {
+                        "*.js": "javascriptreact"
+                },
+                "editor.codeActionsOnSave": {
+                        "source.fixAll.eslint": true
+                },
+                "eslint.alwaysShowStatus": true,
+                "editor.formatOnPaste": true, // format code on paste
+                "editor.formatOnType": true, // format code as you type
+                "editor.formatOnSave": true, // format code when you hit save
+                "files.trimTrailingWhitespace": true, // remove trailing white spaces from all lines
+                "files.trimFinalNewlines": true,
+                "search.exclude": {
+                        "**/old": true,
+                        "public/js": true
+                }, // Ensures there's only one blank line at the end of the file
+        }
+}

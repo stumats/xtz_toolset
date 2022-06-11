@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project
+This code is not maintained. It's a oneshot publish of my tools in the state they were on march 2022.
+It's up to anyone using it to fork it and maintain.
+
 
 ## Getting Started
 

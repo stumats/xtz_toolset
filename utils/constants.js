@@ -1,5 +1,5 @@
 // APIS
-export const HICDEX_MAIN = "https://tatooine.nftbiker.xyz/v1/graphql"
+export const HICDEX_MAIN = "https://api.teia.art/v1/graphql"
 export const OBJKT_API_URL = "https://data.objkt.com/v2/graphql"
 export const FXHASH_API_URL = "https://api.fxhash.xyz/graphql"
 
